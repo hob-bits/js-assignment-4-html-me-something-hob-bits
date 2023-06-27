@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+html {
+    background-color: white;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    font-size: 100px;
+    color: darkolivegreen;
+    text-align: center;
+    letter-spacing: 50px;
+    font-family: Arial Narrow, sans-serif;
+}
+
+#portrait {
+    border: 1px solid slategray;
+    border-radius: 4px;
+    padding: 5px;
+    height: 350px;
+    width: 230px;
+    float: right;
+    margin: 0px 0px 15px 15px;
+    background-color: whitesmoke;
+}
+
+.funParagraph {
+    color: white;
+    font-family: Arial Narrow, sans-serif;
+}
+
+#sectionTitle {
+    font-size: 50px;
+    color: steelblue;
+    text-align: left;
+    letter-spacing: 20px;
+    font-family: Arial Narrow, sans-serif;
+}
+
+#sectionContent {
+    font-size: medium;
+    color: black;
+    text-align: left;
+    font-family: Arial Narrow, sans-serif;
+    background-color: lightsteelblue;
+}
+
+#list {
+    font-size: medium;
+    color: black;
+    text-align: left;
+    font-family: Arial Narrow, sans-serif;
+    background-color: lightsteelblue;
+}
+
